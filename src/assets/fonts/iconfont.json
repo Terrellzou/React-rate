@@ -1,0 +1,156 @@
+{
+  "id": "2300908",
+  "name": "数据应用",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "765527",
+      "name": "鲜花",
+      "font_class": "shouye",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "9697672",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "9697673",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "9697674",
+      "name": "删除",
+      "font_class": "shanchu1",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "9697680",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "12077030",
+      "name": "补建房改档案",
+      "font_class": "bujianfanggaidangan1",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "12077032",
+      "name": "存量安居房拆迁补偿备案",
+      "font_class": "cunlianganjufangchaiqianbuchangbeian1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "12077036",
+      "name": "存量安居房取得全部产权补差",
+      "font_class": "cunlianganjufangqudequanbuchanquanbucha",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "12077039",
+      "name": "存量安居房取得全部产权",
+      "font_class": "cunlianganjufangqudequanbuchanquan1",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "12077048",
+      "name": "住房权利人变更",
+      "font_class": "zhufangquanlirenbiangeng",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "12082827",
+      "name": "打印批复",
+      "font_class": "dayinpifu",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "12082837",
+      "name": "资料维护",
+      "font_class": "ziliaoweihu",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "12082839",
+      "name": "业务办理",
+      "font_class": "yewubanli",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "12083153",
+      "name": "缴费通知书管理",
+      "font_class": "jiaofeitongzhishuguanli",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "12083181",
+      "name": "业务查询",
+      "font_class": "yewuchaxun1",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "12441190",
+      "name": "撤销业务",
+      "font_class": "chexiaoyewu",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "13962890",
+      "name": "计价模板管理",
+      "font_class": "jijiamobanguanli",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "13962891",
+      "name": "市场评估价查询",
+      "font_class": "shichangpinggujiachaxun",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "13962892",
+      "name": "有房无房排查",
+      "font_class": "youfangwufangpaicha",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "3248713",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4251766",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    }
+  ]
+}
