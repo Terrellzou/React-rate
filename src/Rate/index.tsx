@@ -61,7 +61,7 @@ const Rate = (props: IProps) => {
                   currentScore = 0;
                 }
               } else {
-                if (score % (i + 1) === score && score) {
+                if (score && score % (i + 1) === score && i + .5 <= score) {
                   currentScore = 0;
                 } else {
                   currentScore = i + 0.5;
