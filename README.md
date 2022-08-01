@@ -1,4 +1,4 @@
-# react-components
-UI组件
+# 星级评级（半星）组件
+
 
 
